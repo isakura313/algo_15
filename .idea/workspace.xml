@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="131ec4e5-89eb-4e72-a0b6-ef65cd5949b9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1iKTekD9uaOLje2a9JBT9uhV0Cv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Node.js.obj.js">
+    <configuration name="algo.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/algo.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="obj.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/obj.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="palindrom.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/palindrom.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="search.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/search.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="todo.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="todo.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Node.js.todo.js" />
+      <item itemvalue="Node.js.search.js" />
+      <item itemvalue="Node.js.algo.js" />
+      <item itemvalue="Node.js.palindrom.js" />
+      <item itemvalue="Node.js.obj.js" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.obj.js" />
+        <item itemvalue="Node.js.palindrom.js" />
+        <item itemvalue="Node.js.todo.js" />
+        <item itemvalue="Node.js.algo.js" />
+        <item itemvalue="Node.js.search.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="131ec4e5-89eb-4e72-a0b6-ef65cd5949b9" name="Default Changelist" comment="" />
+      <created>1601655386055</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601655386055</updated>
+      <workItem from="1601655388940" duration="5466000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="420" y="104" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601657628213">
+      <screen x="0" y="23" width="1920" height="974" />
+    </state>
+    <state x="420" y="104" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1920.974@0.23.1920.974" timestamp="1601657628213" />
+    <state width="1893" height="57" key="GridCell.Tab.0.bottom" timestamp="1601664169051">
+      <screen x="0" y="23" width="1920" height="974" />
+    </state>
+    <state width="1893" height="57" key="GridCell.Tab.0.bottom/0.23.1920.974@0.23.1920.974" timestamp="1601664169051" />
+    <state width="1893" height="57" key="GridCell.Tab.0.center" timestamp="1601664169051">
+      <screen x="0" y="23" width="1920" height="974" />
+    </state>
+    <state width="1893" height="57" key="GridCell.Tab.0.center/0.23.1920.974@0.23.1920.974" timestamp="1601664169051" />
+    <state width="1893" height="57" key="GridCell.Tab.0.left" timestamp="1601664169050">
+      <screen x="0" y="23" width="1920" height="974" />
+    </state>
+    <state width="1893" height="57" key="GridCell.Tab.0.left/0.23.1920.974@0.23.1920.974" timestamp="1601664169050" />
+    <state width="1893" height="57" key="GridCell.Tab.0.right" timestamp="1601664169051">
+      <screen x="0" y="23" width="1920" height="974" />
+    </state>
+    <state width="1893" height="57" key="GridCell.Tab.0.right/0.23.1920.974@0.23.1920.974" timestamp="1601664169051" />
+  </component>
+</project>
